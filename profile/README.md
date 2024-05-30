@@ -8,9 +8,9 @@
 <table>
   <tr>
     <td align="center"><strong>UI/UX 디자이너</strong></td>
-    <td align="center"><strong>IOS</strong></td>
-    <td align="center"><strong>IOS</strong></td>
-    <td align="center"><strong>IOS</strong></td>
+    <td align="center"><strong>App</strong></td>
+    <td align="center"><strong>App</strong></td>
+    <td align="center"><strong>App</strong></td>
     <td align="center"><strong>백엔드</strong></td>
     <td align="center"><strong>백엔드</strong></td>
   </tr>
