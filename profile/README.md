@@ -4,14 +4,17 @@
 
 </div>
 
-## 🍊 앱 다운로드
+## 🍊 Introduction
+![image](https://github.com/user-attachments/assets/bd82fea9-d858-4fc6-b8cd-b67d821e9441)
+
+## 🍊 Download
 ### 😉 iOS
 #### App Store ➡
 ### 😉 Android
 #### Google Store ➡
 #### One Store ➡ https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000778914
 
-## 🍊 팀원 소개
+## 🍊 Contributor
 <table>
   <tr>
     <td align="center"><strong>UI/UX Designer</strong></td>
