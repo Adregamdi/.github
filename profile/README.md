@@ -14,11 +14,11 @@
 ## 🍊 팀원 소개
 <table>
   <tr>
-    <td align="center"><strong>UI/UX 디자이너</strong></td>
+    <td align="center"><strong>UI/UX Designer</strong></td>
     <td align="center"><strong>App</strong></td>
     <td align="center"><strong>App</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ydh3081"><img src="https://avatars.githubusercontent.com/ydh3081" width="150px;" alt="">
