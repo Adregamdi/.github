@@ -8,8 +8,8 @@
 ### 😉 iOS
 #### App Store ➡
 ### 😉 Android
-#### 구글스토어 ➡
-#### 원스토어 ➡ https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000778914
+#### Google Store ➡
+#### One Store ➡ https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000778914
 
 ## 🍊 팀원 소개
 <table>
