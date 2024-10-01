@@ -9,7 +9,7 @@
 
 ## 🍊 Download
 ### 😉 iOS
-#### App Store ➡
+#### App Store ➡ https://apps.apple.com/kr/app/%EC%96%B4%EB%93%9C%EB%A0%88%EA%B0%90%EB%94%94/id6680183383
 ### 😉 Android
 #### Google Store ➡
 #### One Store ➡ https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000778914
