@@ -5,7 +5,12 @@
 </div>
 
 ## 🍊 Introduction
-![image](https://github.com/user-attachments/assets/bd82fea9-d858-4fc6-b8cd-b67d821e9441)
+<div align="center">
+  
+  🏆 *2024 관광데이터 활용 공모전 우수상* 🏆
+
+  ![image](https://github.com/user-attachments/assets/bd82fea9-d858-4fc6-b8cd-b67d821e9441)
+</div>
 
 ## 🍊 Download
 ### 😉 iOS
