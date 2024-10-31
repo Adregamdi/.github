@@ -25,8 +25,8 @@
     <td align="center"><strong>UI/UX Designer</strong></td>
     <td align="center"><strong>App</strong></td>
     <td align="center"><strong>App</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Server</strong></td>
+    <td align="center"><strong>Server</strong></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ydh3081"><img src="https://avatars.githubusercontent.com/ydh3081" width="150px;" alt="">
